@@ -1,0 +1,11 @@
+# 待优化文件夹
+src/components/page
+src/components/old
+
+src/store
+// ynnx直播外呼
+src/components/page/applyOutbound
+src/components/common
+
+# 配置文件不能改
+vue.config.js
